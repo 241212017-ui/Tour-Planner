@@ -84,12 +84,6 @@ The app collects your travel preferences, sends them to the AI model, and genera
 
 ## Screenshots
 
-The app includes a polished travel preference form and a modern landing section.
-
-![Landing page hero section](./screenshots/landing-hero.png)
-
-![Travel preference form](./screenshots/travel-preferences.png)
-
 The screenshot files are located in `frontend/screenshots/`.
 
 If you want, you can place the actual screenshot files in `frontend/screenshots/` using the above filenames.
