@@ -94,7 +94,7 @@ Contributions are welcome. If you would like to improve the project, feel free t
 
 ## Contact
 
-For questions or collaboration, contact 241212017-ui via GitHub: [241212017-ui](https://github.com/241212017-ui)
+For questions or collaboration, contact Razzak via GitHub: [241212017-ui](https://github.com/241212017-ui)
 
 ## Firebase Setup
 
@@ -102,7 +102,7 @@ The app uses Firebase Firestore to store generated trips. If you want to use you
 
 ## Author
 
-- Name: 241212017-ui
+- Name: Razzak
 - GitHub: [241212017-ui](https://github.com/241212017-ui)
 
 ## License
